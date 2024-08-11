@@ -34,9 +34,9 @@ Since we have no access to the most recent data, we will continue our analysis o
 
 ## 3.  Consistency
  
-*After going over the data, it seems as though it has good consistency.
+- After going over the data, it seems as though it has good consistency.
 
-*Columns are filled with consistent values, no irregularities in terms of information they provide.
+- Columns are filled with consistent values, no irregularities in terms of information they provide.
 
 ## 4.  Relevance
 
