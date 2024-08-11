@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title('Mythbusting the Job Search Pessimism')
+st.write("By Salman Gassem")
 
 st.markdown("""
 Ever since sophomore year in University, I’ve been wondering about my next step after I graduate. One thing that stood out for me is how little people talk about where to go for the best job opportunities, and all I heard was how hard it is to get a job.
