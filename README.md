@@ -4,7 +4,7 @@ Streamlit link: https://usecase-5-salmang.streamlit.app/
 
 ## Data Cleaning steps:
 
-### 1.  Reliability
+## 1.  Reliability
 
 The data comes from a reliable and trusted source, the government of Saudi Arabia.
 
@@ -24,7 +24,7 @@ Sources:
 - https://dga.gov.sa/en
 - https://www.hrsd.gov.sa/en/ministry/about-ministry/minister-headed/entities-headed/hrdf
 
-### 2.  Timeliness
+## 2.  Timeliness
 
 The dates on the job postings are from 2022, and the Kaggle source that provided this dataset shown "Last Updated a Year Ago" which we can safely assume has been scraped and uploaded in 2023.
 
@@ -32,13 +32,13 @@ When checking for an up to date version from the original source "Jadarat", we a
 
 Since we have no access to the most recent data, we will continue our analysis on the available 2022 data.
 
-### 3.  Consistency
+## 3.  Consistency
  
 *After going over the data, it seems as though it has good consistency.
 
 *Columns are filled with consistent values, no irregularities in terms of information they provide.
 
-### 4.  Relevance
+## 4.  Relevance
 
 ### Information we need:
 1. region
@@ -73,15 +73,15 @@ Other columns will be dropped due to them not serving our Problem Statements:
   
 - * the 'benefits' column needs to be split into a 'Salary' and 'Benefits" column, and then dropping the "Benefits" column
 
-### 5.  Uniqueness
+## 5.  Uniqueness
     
 -   Found 89 duplicated rows. Dropped them.
     
-### 6.  Completeness
+## 6.  Completeness
 
 -   No null values are present after removing the irrelevant columns.
 
-### 7.  Accuracy
+## 7.  Accuracy
 Data types changed to a more logical approach:
 
 - Salary column type changed to 'float'
