@@ -13,7 +13,7 @@ The data I’m about to show you is from Jadarat, a Unified National Employment 
 I noticed that the place with the most job opportunities is Riyadh:
             """)
             
-st.image('images\Region_distribution.png', caption='', use_column_width=True)
+st.image('Region_distribution.png', caption='', use_column_width=True)
 
 st.markdown("""
 The eastern and the western regions also offer great opportunities to get hired.
@@ -21,13 +21,13 @@ The eastern and the western regions also offer great opportunities to get hired.
 It’s expected for fresh grads to get no more than 18000 SR Salary.
             """)
 
-st.image('images\salary_range.png', caption='', use_column_width=True)
+st.image('salary_range.png', caption='', use_column_width=True)
 
 st.markdown("""
 Another point that I always disliked about spreading misinformation in this topic is that if you had no prior experience, you won't get hired. The graph below contradicts this statement in a big way:
 """)
 
-st.image('images\opportunities.png', caption='', use_column_width=True)
+st.image('opportunities.png', caption='', use_column_width=True)
 
 st.markdown("""
 Most of the offerings are asking for fresh graduates, people with 0 years of experience! Such an uplifting view makes me optimistic for the future.
@@ -35,7 +35,7 @@ Most of the offerings are asking for fresh graduates, people with 0 years of exp
 It’s also worth mentioning a fact that I am proud of, Saudi Arabia is rapidly evolving, and what drove this positive change are women. Although the chart below will show you a minor preference towards males, the percentages are almost equal, indicating that both genders are highly active in driving Saudi Arabia to heights never been reached before.
 """)
 
-st.image('images\gender_distribution.png', caption='', use_column_width=False, width=400)
+st.image('gender_distribution.png', caption='', use_column_width=False, width=400)
 
 st.markdown("""
 So rest assured that as long as you work hard, and are actively searching, you will for sure find a job.
