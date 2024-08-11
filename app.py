@@ -1,7 +1,6 @@
 import streamlit as st
 
 st.title('Mythbusting the Job Search Pessimism')
-st.write("By Salman Gassem")
 
 st.markdown("""
 #### By Salman Gassem
