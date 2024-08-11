@@ -1,6 +1,7 @@
 # Usecase-5
 
-Streamlit link: https://usecase-5-salmang.streamlit.app/
+Story at Streamlit link: https://usecase-5-salmang.streamlit.app/
+By Salman Gassem
 
 ## Data Cleaning steps:
 
@@ -100,5 +101,3 @@ Data types changed to a more logical approach:
 ![image](https://github.com/user-attachments/assets/c32af89e-0152-4a37-ac6b-4c63e43f6aae)
 
 Decided to cut off the outliers at the 'Salary' value of 18000, as our problem statements considers this as unattainable in most cases.
-
-- Salman Gassem
