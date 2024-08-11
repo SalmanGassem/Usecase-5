@@ -2,12 +2,6 @@
 
 Streamlit link: https://usecase-5-salmang.streamlit.app/
 
-# Usecase-6-Project-3
-
-This project is about Data Storytelling, an interactive streamlit story about an apartments dataset from the website https://sa.aqar.fm/
-
-Streamlit link: https://usecase6.streamlit.app/
-
 ## Data Cleaning steps:
 
 ### 1.  Reliability
