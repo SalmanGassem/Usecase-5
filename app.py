@@ -13,7 +13,7 @@ The data I’m about to show you is from Jadarat, a Unified National Employment 
 I noticed that the place with the most job opportunities is Riyadh:
             """)
             
-st.image('/Usecase-5/blob/main/images/Region_distribution.png', caption='', use_column_width=True)
+st.image('https://github.com/SalmanGassem/Usecase-5/blob/cfb3429402916a42ecd33df80da23d26b0e9dde2/images/Region_distribution.png', caption='', use_column_width=True)
 
 st.markdown("""
 The eastern and the western regions also offer great opportunities to get hired.
